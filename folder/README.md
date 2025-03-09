@@ -6,3 +6,5 @@ We are learning how to make commits.
 3. git commit -m "adding ..." -- creates a commit
 
 goodbye
+
+docs
